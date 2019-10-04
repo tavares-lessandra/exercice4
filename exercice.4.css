@@ -1,0 +1,25 @@
+header{
+    height: 200px;
+    background-color: rgb(88, 88, 179));
+}
+
+nav{
+    height: 200px;
+    background-color: rgb(135, 135, 233);
+}
+
+
+section{
+    height: 700px;
+    background-color:  rgb(88, 88, 179);
+}
+aside{
+    background-color:  rgb(186, 186, 219);
+    width: 300px;
+    float: right;
+    height: 500px;
+}
+footer{
+    height: 100px;
+    background-color: rgb(162, 155, 226);
+}
